@@ -1,5 +1,0 @@
-allBrokersHasNewData <- function() {
-
-  
-  return()
-}
